@@ -1,2 +1,2 @@
-# DSAAA
-Data Structures and Algorithm Analysis in Go.
+# Go Data Structures
+Data structures implemented in Go.
